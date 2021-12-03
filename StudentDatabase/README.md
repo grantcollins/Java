@@ -1,0 +1,1 @@
+This Java program creates a GUI for a student database. It utilizes a HashMap to hold data for students with details including ID, Name, Major, and GPA. There are functions for the user to use including Inserting a student, Deleting a student, Finding a Student, and Updating a student's information.
