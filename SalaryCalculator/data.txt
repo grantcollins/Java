@@ -1,0 +1,20 @@
+2014 Employee Washington,George 2000
+2015 Salesman Adams,John 3000 100000 
+2014 Executive Jefferson,Thomas 5000 55
+2015 Employee Madison,James 4000
+2014 Salesman Monroe,James 6500 1500000
+2015 Executive Jackson,Andrew 2000 80
+2014 Employee Tyler,John 7000
+2015 Salesman Polk,James 1000 40000
+2014 Executive Taylor,Zachary 2700 30
+2015 Employee Fillmore,Millard 2400
+2014 Salesman Pierce,Franklin 9900 300000
+2015 Executive Buchanan,James 8700 15
+2014 Employee Lincoln,Abraham 51000
+2015 Salesman Johnson,Andrew 400 2000000
+2014 Executive Grant,Ulysses 26500 30
+2015 Employee Hayes,Rutherford 40000
+2014 Salesman Garfield,James 90000 90000
+2015 Executive Arthur,Chester 6000 60
+2014 Employee Cleveland,Grover 300000
+2015 Salesman Harrison,Benjamin 6700 32000
